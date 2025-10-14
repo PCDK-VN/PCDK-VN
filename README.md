@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Phạm Công Đăng Khoa
 
-<!--
-**PCDK-VN/PCDK-VN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student and aspiring software developer who loves learning and building real-world projects.  
+I enjoy working with both frontend and backend technologies, and I'm always eager to improve my skills. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- 💻 Programming Languages: **Java**, **C#**, **JavaScript**
+- 🧪 Database: **MySQL**
+- 🧭 Tools & Others: Git, GitHub, VS Code, NetBeans, Visual Studio
+
+---
+
+## 🚀 Featured Projects
+- 🖥️ **Laptop Store Management App** – Java Swing + MySQL  
+  *(Local product management system with add/edit/delete features)*  
+- 🌐 **Web Projects** – HTML/CSS + JS  
+  *(Frontend practice and responsive designs)*
+
+---
+
+## 📫 Contact Me
+- 📧 Email: *your-email@example.com*  
+- 💼 [LinkedIn](https://linkedin.com) *(Optional)*  
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Optional)*
+
+---
+
+## 📈 GitHub Stats
+![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+⭐ *“Keep learning, keep building, and never stop growing.”*
+
