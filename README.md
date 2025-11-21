@@ -22,7 +22,7 @@ I enjoy working with both frontend and backend technologies, and I'm always eage
 
 ## 📫 Contact Me
 - 📧 Email: *Stevenpham5462@gmail.com*  
-- 💼 [LinkedIn](www.linkedin.com) *(www.linkedin.com/in/khoa-phạm-228a0227b)*  
+- 💼 [LinkedIn][linkedin.com/in/khoa-pham-228a0227b](https://www.linkedin.com/in/khoa-pham-228a0227b/)  
 - 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Optional)*
 
 ---
