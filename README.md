@@ -22,7 +22,7 @@ I enjoy working with both frontend and backend technologies, and I'm always eage
 
 ## 📫 Contact Me
 - 📧 Email: *your-email@example.com*  
-- 💼 [LinkedIn](www.linkedin.com/in/khoa-phạm-228a0227b) *(Optional)*  
+- 💼 [LinkedIn](www.linkedin.com) *(www.linkedin.com/in/khoa-phạm-228a0227b)*  
 - 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Optional)*
 
 ---
